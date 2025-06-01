@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import "tailwindcss";
+
+
+@plugin "flyonui" {
+    themes: slack --default;
+}
+
+@plugin "@iconify/tailwind4";
+@import "flyonui/variants.css";
+@source "./node_modules/flyonui/flyonui.js";
+@source "./node_modules/flyonui/dist/accordion.js";

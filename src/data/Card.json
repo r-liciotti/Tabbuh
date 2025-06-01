@@ -1,0 +1,2002 @@
+[
+    {
+        "keyword": "Borraccia",
+        "tabooWords": [
+            "Acqua",
+            "Bere",
+            "Plastica",
+            "Metallo",
+            "Sport"
+        ]
+    },
+    {
+        "keyword": "Occhiali",
+        "tabooWords": [
+            "Vista",
+            "Sole",
+            "Lenti",
+            "Montatura",
+            "Leggere"
+        ]
+    },
+    {
+        "keyword": "Libro",
+        "tabooWords": [
+            "Pagine",
+            "Leggere",
+            "Romanzo",
+            "Storia",
+            "Autore"
+        ]
+    },
+    {
+        "keyword": "Computer",
+        "tabooWords": [
+            "Schermo",
+            "Tastiera",
+            "Mouse",
+            "Internet",
+            "Software"
+        ]
+    },
+    {
+        "keyword": "Telefono",
+        "tabooWords": [
+            "Chiamare",
+            "Messaggio",
+            "App",
+            "Cellulare",
+            "Suoneria"
+        ]
+    },
+    {
+        "keyword": "Orologio",
+        "tabooWords": [
+            "Ora",
+            "Lancette",
+            "Polso",
+            "Digitale",
+            "Sveglia"
+        ]
+    },
+    {
+        "keyword": "Tavolo",
+        "tabooWords": [
+            "Gambe",
+            "Legno",
+            "Mangiare",
+            "Sedia",
+            "Appoggiare"
+        ]
+    },
+    {
+        "keyword": "Sedia",
+        "tabooWords": [
+            "Sedersi",
+            "Gambe",
+            "Schienale",
+            "Tavolo",
+            "Comoda"
+        ]
+    },
+    {
+        "keyword": "Automobile",
+        "tabooWords": [
+            "Guidare",
+            "Ruote",
+            "Motore",
+            "Strada",
+            "Benzina"
+        ]
+    },
+    {
+        "keyword": "Bicicletta",
+        "tabooWords": [
+            "Pedali",
+            "Ruote",
+            "Manubrio",
+            "Catena",
+            "Ciclismo"
+        ]
+    },
+    {
+        "keyword": "Treno",
+        "tabooWords": [
+            "Binari",
+            "Stazione",
+            "Vagone",
+            "Viaggio",
+            "Ferrovia"
+        ]
+    },
+    {
+        "keyword": "Aereo",
+        "tabooWords": [
+            "Volare",
+            "Ali",
+            "Aeroporto",
+            "Pilota",
+            "Cielo"
+        ]
+    },
+    {
+        "keyword": "Nave",
+        "tabooWords": [
+            "Mare",
+            "Acqua",
+            "Porto",
+            "Capitano",
+            "Navigare"
+        ]
+    },
+    {
+        "keyword": "Forchetta",
+        "tabooWords": [
+            "Mangiare",
+            "Coltello",
+            "Cucchiaio",
+            "Denti",
+            "Pasta"
+        ]
+    },
+    {
+        "keyword": "Coltello",
+        "tabooWords": [
+            "Tagliare",
+            "Lama",
+            "Affilato",
+            "Forchetta",
+            "Cucina"
+        ]
+    },
+    {
+        "keyword": "Piatto",
+        "tabooWords": [
+            "Mangiare",
+            "Cibo",
+            "Ceramica",
+            "Portata",
+            "Tavola"
+        ]
+    },
+    {
+        "keyword": "Letto",
+        "tabooWords": [
+            "Dormire",
+            "Cuscino",
+            "Materasso",
+            "Camera",
+            "Sogni"
+        ]
+    },
+    {
+        "keyword": "Cuscino",
+        "tabooWords": [
+            "Testa",
+            "Letto",
+            "Dormire",
+            "Morbido",
+            "Piuma"
+        ]
+    },
+    {
+        "keyword": "Scarpa",
+        "tabooWords": [
+            "Piede",
+            "Camminare",
+            "Lacci",
+            "Suola",
+            "Stivale"
+        ]
+    },
+    {
+        "keyword": "Pantaloni",
+        "tabooWords": [
+            "Gambe",
+            "Indossare",
+            "Jeans",
+            "Tasche",
+            "Cintura"
+        ]
+    },
+    {
+        "keyword": "Maglietta",
+        "tabooWords": [
+            "Indossare",
+            "Maniche",
+            "Cotone",
+            "Vestiti",
+            "Collo"
+        ]
+    },
+    {
+        "keyword": "Cane",
+        "tabooWords": [
+            "Animale",
+            "Abbaiare",
+            "Coda",
+            "Guinzaglio",
+            "Fedele"
+        ]
+    },
+    {
+        "keyword": "Gatto",
+        "tabooWords": [
+            "Animale",
+            "Miagolare",
+            "Fusa",
+            "Pelo",
+            "Topo"
+        ]
+    },
+    {
+        "keyword": "Albero",
+        "tabooWords": [
+            "Foglie",
+            "Rami",
+            "Tronco",
+            "Legno",
+            "Foresta"
+        ]
+    },
+    {
+        "keyword": "Fiore",
+        "tabooWords": [
+            "Petali",
+            "Profumo",
+            "Pianta",
+            "Giardino",
+            "Vaso"
+        ]
+    },
+    {
+        "keyword": "Sole",
+        "tabooWords": [
+            "Caldo",
+            "Luce",
+            "Giallo",
+            "Cielo",
+            "Stella"
+        ]
+    },
+    {
+        "keyword": "Luna",
+        "tabooWords": [
+            "Notte",
+            "Cielo",
+            "Satellite",
+            "Crateri",
+            "Argento"
+        ]
+    },
+    {
+        "keyword": "Stella",
+        "tabooWords": [
+            "Cielo",
+            "Notte",
+            "Brillare",
+            "Luce",
+            "Astronomia"
+        ]
+    },
+    {
+        "keyword": "Montagna",
+        "tabooWords": [
+            "Alta",
+            "Roccia",
+            "Scalare",
+            "Neve",
+            "Vetta"
+        ]
+    },
+    {
+        "keyword": "Mare",
+        "tabooWords": [
+            "Acqua",
+            "Onde",
+            "Spiaggia",
+            "Pesci",
+            "Blu"
+        ]
+    },
+    {
+        "keyword": "Fiume",
+        "tabooWords": [
+            "Acqua",
+            "Scorrere",
+            "Sponda",
+            "Ponte",
+            "Corrente"
+        ]
+    },
+    {
+        "keyword": "Lago",
+        "tabooWords": [
+            "Acqua",
+            "Calmo",
+            "Riva",
+            "Barca",
+            "Pescare"
+        ]
+    },
+    {
+        "keyword": "Scuola",
+        "tabooWords": [
+            "Studenti",
+            "Insegnante",
+            "Lezione",
+            "Compiti",
+            "Aula"
+        ]
+    },
+    {
+        "keyword": "Insegnante",
+        "tabooWords": [
+            "Scuola",
+            "Studenti",
+            "Lezione",
+            "Spiegare",
+            "Materia"
+        ]
+    },
+    {
+        "keyword": "Medico",
+        "tabooWords": [
+            "Ospedale",
+            "Malattia",
+            "Paziente",
+            "Curare",
+            "Medicina"
+        ]
+    },
+    {
+        "keyword": "Ospedale",
+        "tabooWords": [
+            "Medico",
+            "Infermiere",
+            "Malato",
+            "Paziente",
+            "Cura"
+        ]
+    },
+    {
+        "keyword": "Musica",
+        "tabooWords": [
+            "Suono",
+            "Canzone",
+            "Note",
+            "Strumento",
+            "Ascoltare"
+        ]
+    },
+    {
+        "keyword": "Film",
+        "tabooWords": [
+            "Cinema",
+            "Attore",
+            "Regista",
+            "Trama",
+            "Schermo"
+        ]
+    },
+    {
+        "keyword": "Sport",
+        "tabooWords": [
+            "Gioco",
+            "Squadra",
+            "Palla",
+            "Atleta",
+            "Competizione"
+        ]
+    },
+    {
+        "keyword": "Calcio",
+        "tabooWords": [
+            "Palla",
+            "Porta",
+            "Squadra",
+            "Campo",
+            "Partita"
+        ]
+    },
+    {
+        "keyword": "Cucina",
+        "tabooWords": [
+            "Cucinare",
+            "Fornelli",
+            "Frigorifero",
+            "Lavello",
+            "Cibo"
+        ]
+    },
+    {
+        "keyword": "Bagno",
+        "tabooWords": [
+            "Doccia",
+            "Vasca",
+            "WC",
+            "Lavandino",
+            "Asciugamano"
+        ]
+    },
+    {
+        "keyword": "Soldi",
+        "tabooWords": [
+            "Euro",
+            "Banconota",
+            "Moneta",
+            "Pagare",
+            "Banca"
+        ]
+    },
+    {
+        "keyword": "Lavoro",
+        "tabooWords": [
+            "Ufficio",
+            "Stipendio",
+            "Capo",
+            "Professione",
+            "Carriera"
+        ]
+    },
+    {
+        "keyword": "Vacanza",
+        "tabooWords": [
+            "Viaggio",
+            "Relax",
+            "Divertimento",
+            "Hotel",
+            "Spiaggia"
+        ]
+    },
+    {
+        "keyword": "Amore",
+        "tabooWords": [
+            "Cuore",
+            "Sentimento",
+            "Relazione",
+            "Bacio",
+            "Coppia"
+        ]
+    },
+    {
+        "keyword": "Paura",
+        "tabooWords": [
+            "Emozione",
+            "Spavento",
+            "Orrore",
+            "Timore",
+            "Ansia"
+        ]
+    },
+    {
+        "keyword": "Felicità",
+        "tabooWords": [
+            "Gioia",
+            "Sorriso",
+            "Allegria",
+            "Contento",
+            "Emozione"
+        ]
+    },
+    {
+        "keyword": "Matrimonio",
+        "tabooWords": [
+            "Sposa",
+            "Sposo",
+            "Anello",
+            "Cerimonia",
+            "Chiesa"
+        ]
+    },
+    {
+        "keyword": "Compleanno",
+        "tabooWords": [
+            "Anni",
+            "Torta",
+            "Regalo",
+            "Festa",
+            "Auguri"
+        ]
+    },
+    {
+        "keyword": "Natale",
+        "tabooWords": [
+            "Regali",
+            "Albero",
+            "Babbo",
+            "Neve",
+            "Dicembre"
+        ]
+    },
+    {
+        "keyword": "Pasqua",
+        "tabooWords": [
+            "Uova",
+            "Coniglio",
+            "Cioccolato",
+            "Primavera",
+            "Resurrezione"
+        ]
+    },
+    {
+        "keyword": "Pittura",
+        "tabooWords": [
+            "Pennello",
+            "Colori",
+            "Tela",
+            "Artista",
+            "Quadro"
+        ]
+    },
+    {
+        "keyword": "Scultura",
+        "tabooWords": [
+            "Marmo",
+            "Bronzo",
+            "Artista",
+            "Statua",
+            "Modellare"
+        ]
+    },
+    {
+        "keyword": "Teatro",
+        "tabooWords": [
+            "Palco",
+            "Attori",
+            "Spettacolo",
+            "Pubblico",
+            "Dramma"
+        ]
+    },
+    {
+        "keyword": "Danza",
+        "tabooWords": [
+            "Ballare",
+            "Musica",
+            "Corpo",
+            "Movimento",
+            "Coreografia"
+        ]
+    },
+    {
+        "keyword": "Fotografia",
+        "tabooWords": [
+            "Macchina",
+            "Foto",
+            "Obiettivo",
+            "Scatto",
+            "Immagine"
+        ]
+    },
+    {
+        "keyword": "Giornale",
+        "tabooWords": [
+            "Notizie",
+            "Articoli",
+            "Leggere",
+            "Quotidiano",
+            "Carta"
+        ]
+    },
+    {
+        "keyword": "Radio",
+        "tabooWords": [
+            "Musica",
+            "Frequenza",
+            "Stazione",
+            "Ascoltare",
+            "Antenna"
+        ]
+    },
+    {
+        "keyword": "Televisione",
+        "tabooWords": [
+            "Schermo",
+            "Programma",
+            "Canale",
+            "Telecomando",
+            "Guardare"
+        ]
+    },
+    {
+        "keyword": "Chiave",
+        "tabooWords": [
+            "Serratura",
+            "Porta",
+            "Aprire",
+            "Metallo",
+            "Automobile"
+        ]
+    },
+    {
+        "keyword": "Porta",
+        "tabooWords": [
+            "Aprire",
+            "Chiudere",
+            "Entrare",
+            "Uscire",
+            "Maniglia"
+        ]
+    },
+    {
+        "keyword": "Finestra",
+        "tabooWords": [
+            "Vetro",
+            "Aprire",
+            "Luce",
+            "Casa",
+            "Vista"
+        ]
+    },
+    {
+        "keyword": "Muro",
+        "tabooWords": [
+            "Mattoni",
+            "Stanza",
+            "Casa",
+            "Dividere",
+            "Dipinto"
+        ]
+    },
+    {
+        "keyword": "Tetto",
+        "tabooWords": [
+            "Casa",
+            "Copertura",
+            "Tegole",
+            "Pioggia",
+            "Protezione"
+        ]
+    },
+    {
+        "keyword": "Giardino",
+        "tabooWords": [
+            "Fiori",
+            "Piante",
+            "Erba",
+            "Alberi",
+            "Coltivare"
+        ]
+    },
+    {
+        "keyword": "Città",
+        "tabooWords": [
+            "Strade",
+            "Palazzi",
+            "Traffico",
+            "Persone",
+            "Negozi"
+        ]
+    },
+    {
+        "keyword": "Campagna",
+        "tabooWords": [
+            "Natura",
+            "Campi",
+            "Animali",
+            "Verde",
+            "Tranquillità"
+        ]
+    },
+    {
+        "keyword": "Ponte",
+        "tabooWords": [
+            "Fiume",
+            "Attraversare",
+            "Acqua",
+            "Costruzione",
+            "Veicoli"
+        ]
+    },
+    {
+        "keyword": "Strada",
+        "tabooWords": [
+            "Automobili",
+            "Camminare",
+            "Asfalto",
+            "Traffico",
+            "Percorso"
+        ]
+    },
+    {
+        "keyword": "Semaforo",
+        "tabooWords": [
+            "Rosso",
+            "Verde",
+            "Giallo",
+            "Stop",
+            "Incrocio"
+        ]
+    },
+    {
+        "keyword": "Posta",
+        "tabooWords": [
+            "Lettera",
+            "Francobollo",
+            "Pacco",
+            "Inviare",
+            "Buca"
+        ]
+    },
+    {
+        "keyword": "Banca",
+        "tabooWords": [
+            "Soldi",
+            "Conto",
+            "Prelievo",
+            "Deposito",
+            "Sportello"
+        ]
+    },
+    {
+        "keyword": "Ristorante",
+        "tabooWords": [
+            "Mangiare",
+            "Cibo",
+            "Cameriere",
+            "Menu",
+            "Tavolo"
+        ]
+    },
+    {
+        "keyword": "Bar",
+        "tabooWords": [
+            "Caffè",
+            "Bere",
+            "Colazione",
+            "Bancone",
+            "Aperitivo"
+        ]
+    },
+    {
+        "keyword": "Supermercato",
+        "tabooWords": [
+            "Spesa",
+            "Carrello",
+            "Prodotti",
+            "Cassa",
+            "Scaffali"
+        ]
+    },
+    {
+        "keyword": "Farmacia",
+        "tabooWords": [
+            "Medicinali",
+            "Ricetta",
+            "Salute",
+            "Farmacista",
+            "Malattia"
+        ]
+    },
+    {
+        "keyword": "Polizia",
+        "tabooWords": [
+            "Agente",
+            "Legge",
+            "Arresto",
+            "Sicurezza",
+            "Emergenza"
+        ]
+    },
+    {
+        "keyword": "Pompiere",
+        "tabooWords": [
+            "Fuoco",
+            "Incendio",
+            "Acqua",
+            "Salvare",
+            "Caserma"
+        ]
+    },
+    {
+        "keyword": "Frutta",
+        "tabooWords": [
+            "Mela",
+            "Banana",
+            "Arancia",
+            "Vitamine",
+            "Dolce"
+        ]
+    },
+    {
+        "keyword": "Verdura",
+        "tabooWords": [
+            "Insalata",
+            "Pomodoro",
+            "Carota",
+            "Orto",
+            "Sana"
+        ]
+    },
+    {
+        "keyword": "Pane",
+        "tabooWords": [
+            "Farina",
+            "Forno",
+            "Lievito",
+            "Fetta",
+            "Panettiere"
+        ]
+    },
+    {
+        "keyword": "Formaggio",
+        "tabooWords": [
+            "Latte",
+            "Mucca",
+            "Grattugiato",
+            "Pizza",
+            "Stagionato"
+        ]
+    },
+    {
+        "keyword": "Carne",
+        "tabooWords": [
+            "Manzo",
+            "Pollo",
+            "Maiale",
+            "Bistecca",
+            "Griglia"
+        ]
+    },
+    {
+        "keyword": "Pesce",
+        "tabooWords": [
+            "Mare",
+            "Acqua",
+            "Lisca",
+            "Tonno",
+            "Salmone"
+        ]
+    },
+    {
+        "keyword": "Pasta",
+        "tabooWords": [
+            "Spaghetti",
+            "Sugo",
+            "Grano",
+            "Italia",
+            "Cuocere"
+        ]
+    },
+    {
+        "keyword": "Pizza",
+        "tabooWords": [
+            "Margherita",
+            "Forno",
+            "Mozzarella",
+            "Pomodoro",
+            "Italia"
+        ]
+    },
+    {
+        "keyword": "Gelato",
+        "tabooWords": [
+            "Cono",
+            "Freddo",
+            "Gusti",
+            "Estate",
+            "Dolce"
+        ]
+    },
+    {
+        "keyword": "Caffè",
+        "tabooWords": [
+            "Espresso",
+            "Tazza",
+            "Caldo",
+            "Bar",
+            "Zucchero"
+        ]
+    },
+    {
+        "keyword": "Tè",
+        "tabooWords": [
+            "Bustina",
+            "Caldo",
+            "Infuso",
+            "Tazza",
+            "Limone"
+        ]
+    },
+    {
+        "keyword": "Vino",
+        "tabooWords": [
+            "Uva",
+            "Rosso",
+            "Bianco",
+            "Bottiglia",
+            "Bere"
+        ]
+    },
+    {
+        "keyword": "Birra",
+        "tabooWords": [
+            "Luppolo",
+            "Malto",
+            "Bionda",
+            "Pinta",
+            "Alcolica"
+        ]
+    },
+    {
+        "keyword": "Acqua",
+        "tabooWords": [
+            "Bere",
+            "Sete",
+            "Bottiglia",
+            "Rubinetto",
+            "Naturale"
+        ]
+    },
+    {
+        "keyword": "Aria",
+        "tabooWords": [
+            "Respirare",
+            "Ossigeno",
+            "Vento",
+            "Cielo",
+            "Fresca"
+        ]
+    },
+    {
+        "keyword": "Fuoco",
+        "tabooWords": [
+            "Caldo",
+            "Bruciare",
+            "Fiamma",
+            "Legna",
+            "Incendio"
+        ]
+    },
+    {
+        "keyword": "Terra",
+        "tabooWords": [
+            "Suolo",
+            "Pianeta",
+            "Mondo",
+            "Natura",
+            "Piantare"
+        ]
+    },
+    {
+        "keyword": "Nuvola",
+        "tabooWords": [
+            "Cielo",
+            "Pioggia",
+            "Bianca",
+            "Vapore",
+            "Tempo"
+        ]
+    },
+    {
+        "keyword": "Neve",
+        "tabooWords": [
+            "Freddo",
+            "Inverno",
+            "Bianca",
+            "Fiocco",
+            "Sciare"
+        ]
+    },
+    {
+        "keyword": "Vento",
+        "tabooWords": [
+            "Aria",
+            "Soffiare",
+            "Forte",
+            "Tempesta",
+            "Alberi"
+        ]
+    },
+    {
+        "keyword": "Colore",
+        "tabooWords": [
+            "Rosso",
+            "Giallo",
+            "Blu",
+            "Dipingere",
+            "Arcobaleno"
+        ]
+    },
+    {
+        "keyword": "Gioco",
+        "tabooWords": [
+            "Divertimento",
+            "Giocare",
+            "Regole",
+            "Squadra",
+            "Vincere"
+        ]
+    },
+    {
+        "keyword": "Bambino",
+        "tabooWords": [
+            "Piccolo",
+            "Giocare",
+            "Scuola",
+            "Genitori",
+            "Infanzia"
+        ]
+    },
+    {
+        "keyword": "Famiglia",
+        "tabooWords": [
+            "Genitori",
+            "Figli",
+            "Fratelli",
+            "Amore",
+            "Casa"
+        ]
+    },
+    {
+        "keyword": "Amico",
+        "tabooWords": [
+            "Leale",
+            "Compagnia",
+            "Divertimento",
+            "Confidare",
+            "Uscire"
+        ]
+    },
+    {
+        "keyword": "Sogni",
+        "tabooWords": [
+            "Notte",
+            "Dormire",
+            "Immaginare",
+            "Desiderio",
+            "Inconscio"
+        ]
+    },
+    {
+        "keyword": "Viaggio",
+        "tabooWords": [
+            "Partire",
+            "Destinazione",
+            "Vacanza",
+            "Esplorare",
+            "Valigia"
+        ]
+    },
+    {
+        "keyword": "Storia",
+        "tabooWords": [
+            "Racconto",
+            "Passato",
+            "Eventi",
+            "Personaggi",
+            "Libro"
+        ]
+    },
+    {
+        "keyword": "Scienza",
+        "tabooWords": [
+            "Esperimento",
+            "Ricerca",
+            "Teoria",
+            "Laboratorio",
+            "Scoperta"
+        ]
+    },
+    {
+        "keyword": "Arte",
+        "tabooWords": [
+            "Pittura",
+            "Scultura",
+            "Museo",
+            "Creatività",
+            "Bellezza"
+        ]
+    },
+    {
+        "keyword": "Lingua",
+        "tabooWords": [
+            "Parlare",
+            "Parole",
+            "Grammatica",
+            "Traduzione",
+            "Comunicare"
+        ]
+    },
+    {
+        "keyword": "Matita",
+        "tabooWords": [
+            "Scrivere",
+            "Disegnare",
+            "Grafite",
+            "Gomma",
+            "Temperino"
+        ]
+    },
+    {
+        "keyword": "Penna",
+        "tabooWords": [
+            "Scrivere",
+            "Inchiostro",
+            "Biro",
+            "Sfera",
+            "Foglio"
+        ]
+    },
+    {
+        "keyword": "Quaderno",
+        "tabooWords": [
+            "Pagine",
+            "Scrivere",
+            "Appunti",
+            "Scuola",
+            "Spirale"
+        ]
+    },
+    {
+        "keyword": "Zaino",
+        "tabooWords": [
+            "Spalle",
+            "Scuola",
+            "Libri",
+            "Portare",
+            "Gite"
+        ]
+    },
+    {
+        "keyword": "Bicchiere",
+        "tabooWords": [
+            "Bere",
+            "Acqua",
+            "Vetro",
+            "Calice",
+            "Contenitore"
+        ]
+    },
+    {
+        "keyword": "Lampada",
+        "tabooWords": [
+            "Luce",
+            "Illuminare",
+            "Lampadina",
+            "Abat-jour",
+            "Tavolo"
+        ]
+    },
+    {
+        "keyword": "Armadio",
+        "tabooWords": [
+            "Vestiti",
+            "Ante",
+            "Camera",
+            "Appendere",
+            "Cassetti"
+        ]
+    },
+    {
+        "keyword": "Specchio",
+        "tabooWords": [
+            "Riflesso",
+            "Immagine",
+            "Guardarsi",
+            "Vetro",
+            "Bagno"
+        ]
+    },
+    {
+        "keyword": "Tappeto",
+        "tabooWords": [
+            "Pavimento",
+            "Morbido",
+            "Decorazione",
+            "Salotto",
+            "Polvere"
+        ]
+    },
+    {
+        "keyword": "Divano",
+        "tabooWords": [
+            "Sedersi",
+            "Salotto",
+            "Comodo",
+            "Cuscini",
+            "Televisione"
+        ]
+    },
+    {
+        "keyword": "Forno",
+        "tabooWords": [
+            "Cucinare",
+            "Caldo",
+            "Pizza",
+            "Torta",
+            "Elettrico"
+        ]
+    },
+    {
+        "keyword": "Frigorifero",
+        "tabooWords": [
+            "Freddo",
+            "Cibo",
+            "Conservare",
+            "Congelatore",
+            "Cucina"
+        ]
+    },
+    {
+        "keyword": "Lavatrice",
+        "tabooWords": [
+            "Vestiti",
+            "Pulire",
+            "Detersivo",
+            "Oblò",
+            "Centrifuga"
+        ]
+    },
+    {
+        "keyword": "Telefono Cellulare",
+        "tabooWords": [
+            "Chiamare",
+            "Smartphone",
+            "App",
+            "Messaggi",
+            "Internet"
+        ]
+    },
+    {
+        "keyword": "Computer Portatile",
+        "tabooWords": [
+            "Schermo",
+            "Tastiera",
+            "Batteria",
+            "Internet",
+            "Lavoro"
+        ]
+    },
+    {
+        "keyword": "Stampante",
+        "tabooWords": [
+            "Carta",
+            "Inchiostro",
+            "Documenti",
+            "Stampa",
+            "Computer"
+        ]
+    },
+    {
+        "keyword": "Cuffie",
+        "tabooWords": [
+            "Ascoltare",
+            "Musica",
+            "Orecchie",
+            "Suono",
+            "Filo"
+        ]
+    },
+    {
+        "keyword": "Microfono",
+        "tabooWords": [
+            "Voce",
+            "Suono",
+            "Registrare",
+            "Parlare",
+            "Cantare"
+        ]
+    },
+    {
+        "keyword": "Batteria",
+        "tabooWords": [
+            "Energia",
+            "Carica",
+            "Telefono",
+            "Pila",
+            "Durata"
+        ]
+    },
+    {
+        "keyword": "Batteria Strumento",
+        "tabooWords": [
+            "Musica",
+            "Suonare",
+            "Tamburo",
+            "Bacchette",
+            "Ritmo"
+        ]
+    },
+    {
+        "keyword": "Chitarra",
+        "tabooWords": [
+            "Corde",
+            "Musica",
+            "Suonare",
+            "Elettrica",
+            "Acustica"
+        ]
+    },
+    {
+        "keyword": "Pianoforte",
+        "tabooWords": [
+            "Tasti",
+            "Musica",
+            "Suonare",
+            "Coda",
+            "Verticale"
+        ]
+    },
+    {
+        "keyword": "Violino",
+        "tabooWords": [
+            "Corde",
+            "Archetto",
+            "Musica",
+            "Suonare",
+            "Orchestra"
+        ]
+    },
+    {
+        "keyword": "Calzini",
+        "tabooWords": [
+            "Piedi",
+            "Scarpe",
+            "Cotone",
+            "Caldi",
+            "Paio"
+        ]
+    },
+    {
+        "keyword": "Cappello",
+        "tabooWords": [
+            "Testa",
+            "Sole",
+            "Indossare",
+            "Berretto",
+            "Inverno"
+        ]
+    },
+    {
+        "keyword": "Sciarpa",
+        "tabooWords": [
+            "Collo",
+            "Freddo",
+            "Inverno",
+            "Lana",
+            "Indossare"
+        ]
+    },
+    {
+        "keyword": "Guanti",
+        "tabooWords": [
+            "Mani",
+            "Freddo",
+            "Inverno",
+            "Dita",
+            "Pelle"
+        ]
+    },
+    {
+        "keyword": "Ombrello",
+        "tabooWords": [
+            "Pioggia",
+            "Aprire",
+            "Acqua",
+            "Riparo",
+            "Manico"
+        ]
+    },
+    {
+        "keyword": "Valigia",
+        "tabooWords": [
+            "Viaggio",
+            "Vestiti",
+            "Ruote",
+            "Aeroporto",
+            "Bagaglio"
+        ]
+    },
+    {
+        "keyword": "Biglietto",
+        "tabooWords": [
+            "Treno",
+            "Aereo",
+            "Cinema",
+            "Concerto",
+            "Ingresso"
+        ]
+    },
+    {
+        "keyword": "Mappa",
+        "tabooWords": [
+            "Strade",
+            "Luoghi",
+            "Orientamento",
+            "Cartina",
+            "Navigazione"
+        ]
+    },
+    {
+        "keyword": "Bussola",
+        "tabooWords": [
+            "Nord",
+            "Orientamento",
+            "Magnetico",
+            "Ago",
+            "Direzione"
+        ]
+    },
+    {
+        "keyword": "Regalo",
+        "tabooWords": [
+            "Sorpresa",
+            "Compleanno",
+            "Natale",
+            "Donare",
+            "Pacco"
+        ]
+    },
+    {
+        "keyword": "Festa",
+        "tabooWords": [
+            "Divertimento",
+            "Musica",
+            "Amici",
+            "Celebrare",
+            "Invitati"
+        ]
+    },
+    {
+        "keyword": "Candela",
+        "tabooWords": [
+            "Cera",
+            "Fiamma",
+            "Luce",
+            "Compleanno",
+            "Romantica"
+        ]
+    },
+    {
+        "keyword": "Palloncino",
+        "tabooWords": [
+            "Aria",
+            "Gonfiare",
+            "Festa",
+            "Colorato",
+            "Elio"
+        ]
+    },
+    {
+        "keyword": "Maschera",
+        "tabooWords": [
+            "Viso",
+            "Carnevale",
+            "Coprire",
+            "Teatro",
+            "Protezione"
+        ]
+    },
+    {
+        "keyword": "Castello",
+        "tabooWords": [
+            "Re",
+            "Regina",
+            "Mura",
+            "Medioevo",
+            "Torre"
+        ]
+    },
+    {
+        "keyword": "Isola",
+        "tabooWords": [
+            "Mare",
+            "Acqua",
+            "Terra",
+            "Spiaggia",
+            "Solitaria"
+        ]
+    },
+    {
+        "keyword": "Deserto",
+        "tabooWords": [
+            "Sabbia",
+            "Caldo",
+            "Secco",
+            "Cammello",
+            "Oasi"
+        ]
+    },
+    {
+        "keyword": "Foresta",
+        "tabooWords": [
+            "Alberi",
+            "Animali",
+            "Verde",
+            "Natura",
+            "Sentiero"
+        ]
+    },
+    {
+        "keyword": "Vulcano",
+        "tabooWords": [
+            "Eruzione",
+            "Lava",
+            "Fuoco",
+            "Montagna",
+            "Cratere"
+        ]
+    },
+    {
+        "keyword": "Grotta",
+        "tabooWords": [
+            "Roccia",
+            "Buio",
+            "Stalattiti",
+            "Esplorare",
+            "Sotterranea"
+        ]
+    },
+    {
+        "keyword": "Museo",
+        "tabooWords": [
+            "Arte",
+            "Storia",
+            "Opere",
+            "Esposizione",
+            "Visita"
+        ]
+    },
+    {
+        "keyword": "Biblioteca",
+        "tabooWords": [
+            "Libri",
+            "Leggere",
+            "Silenzio",
+            "Prestito",
+            "Studio"
+        ]
+    },
+    {
+        "keyword": "Università",
+        "tabooWords": [
+            "Studenti",
+            "Lezioni",
+            "Professori",
+            "Laurea",
+            "Esami"
+        ]
+    },
+    {
+        "keyword": "Ufficio",
+        "tabooWords": [
+            "Lavoro",
+            "Scrivania",
+            "Computer",
+            "Colleghi",
+            "Riunione"
+        ]
+    },
+    {
+        "keyword": "Negozio",
+        "tabooWords": [
+            "Comprare",
+            "Vendere",
+            "Prodotti",
+            "Cliente",
+            "Cassa"
+        ]
+    },
+    {
+        "keyword": "Parco",
+        "tabooWords": [
+            "Alberi",
+            "Giochi",
+            "Panchina",
+            "Verde",
+            "Rilassarsi"
+        ]
+    },
+    {
+        "keyword": "Piscina",
+        "tabooWords": [
+            "Acqua",
+            "Nuotare",
+            "Tuffo",
+            "Costume",
+            "Cloro"
+        ]
+    },
+    {
+        "keyword": "Palestra",
+        "tabooWords": [
+            "Allenamento",
+            "Pesi",
+            "Esercizio",
+            "Fitness",
+            "Muscoli"
+        ]
+    },
+    {
+        "keyword": "Stadio",
+        "tabooWords": [
+            "Sport",
+            "Partita",
+            "Tifosi",
+            "Tribuna",
+            "Campo"
+        ]
+    },
+    {
+        "keyword": "Cinema",
+        "tabooWords": [
+            "Film",
+            "Schermo",
+            "Popcorn",
+            "Sedili",
+            "Proiezione"
+        ]
+    },
+    {
+        "keyword": "Aeroporto",
+        "tabooWords": [
+            "Aereo",
+            "Volo",
+            "Partenza",
+            "Arrivo",
+            "Check-in"
+        ]
+    },
+    {
+        "keyword": "Stazione",
+        "tabooWords": [
+            "Treno",
+            "Binari",
+            "Biglietto",
+            "Orario",
+            "Partenza"
+        ]
+    },
+    {
+        "keyword": "Dente",
+        "tabooWords": [
+            "Bocca",
+            "Masticare",
+            "Dentista",
+            "Spazzolino",
+            "Carie"
+        ]
+    },
+    {
+        "keyword": "Capelli",
+        "tabooWords": [
+            "Testa",
+            "Pettine",
+            "Shampoo",
+            "Parrucchiere",
+            "Taglio"
+        ]
+    },
+    {
+        "keyword": "Mano",
+        "tabooWords": [
+            "Dita",
+            "Palmo",
+            "Prendere",
+            "Unghie",
+            "Scrivere"
+        ]
+    },
+    {
+        "keyword": "Piede",
+        "tabooWords": [
+            "Scarpa",
+            "Dita",
+            "Camminare",
+            "Caviglia",
+            "Calzino"
+        ]
+    },
+    {
+        "keyword": "Occhio",
+        "tabooWords": [
+            "Vista",
+            "Vedere",
+            "Ciglia",
+            "Pupilla",
+            "Occhiali"
+        ]
+    },
+    {
+        "keyword": "Naso",
+        "tabooWords": [
+            "Odore",
+            "Respirare",
+            "Profumo",
+            "Soffiare",
+            "Faccia"
+        ]
+    },
+    {
+        "keyword": "Bocca",
+        "tabooWords": [
+            "Parlare",
+            "Mangiare",
+            "Labbra",
+            "Denti",
+            "Lingua"
+        ]
+    },
+    {
+        "keyword": "Orecchio",
+        "tabooWords": [
+            "Udito",
+            "Ascoltare",
+            "Suono",
+            "Rumore",
+            "Musica"
+        ]
+    },
+    {
+        "keyword": "Cuore",
+        "tabooWords": [
+            "Amore",
+            "Sangue",
+            "Battere",
+            "Petto",
+            "Vita"
+        ]
+    },
+    {
+        "keyword": "Cervello",
+        "tabooWords": [
+            "Pensare",
+            "Mente",
+            "Intelligenza",
+            "Testa",
+            "Idee"
+        ]
+    },
+    {
+        "keyword": "Lingua Anatomia",
+        "tabooWords": [
+            "Bocca",
+            "Gusto",
+            "Parlare",
+            "Leccare",
+            "Rossa"
+        ]
+    },
+    {
+        "keyword": "Giornalista",
+        "tabooWords": [
+            "Notizie",
+            "Articolo",
+            "Intervista",
+            "Scrivere",
+            "Giornale"
+        ]
+    },
+    {
+        "keyword": "Fotografo",
+        "tabooWords": [
+            "Macchina fotografica",
+            "Foto",
+            "Immagine",
+            "Scattare",
+            "Obiettivo"
+        ]
+    },
+    {
+        "keyword": "Cuoco",
+        "tabooWords": [
+            "Cucinare",
+            "Cibo",
+            "Ristorante",
+            "Padella",
+            "Ricetta"
+        ]
+    },
+    {
+        "keyword": "Pittore",
+        "tabooWords": [
+            "Dipingere",
+            "Colori",
+            "Pennello",
+            "Tela",
+            "Quadro"
+        ]
+    },
+    {
+        "keyword": "Musicista",
+        "tabooWords": [
+            "Suonare",
+            "Strumento",
+            "Musica",
+            "Canzone",
+            "Concerto"
+        ]
+    },
+    {
+        "keyword": "Attore",
+        "tabooWords": [
+            "Film",
+            "Teatro",
+            "Recitare",
+            "Personaggio",
+            "Palco"
+        ]
+    },
+    {
+        "keyword": "Scienziato",
+        "tabooWords": [
+            "Ricerca",
+            "Esperimento",
+            "Laboratorio",
+            "Scoperta",
+            "Teoria"
+        ]
+    },
+    {
+        "keyword": "Scrittore",
+        "tabooWords": [
+            "Libro",
+            "Romanzo",
+            "Scrivere",
+            "Storia",
+            "Autore"
+        ]
+    },
+    {
+        "keyword": "Agricoltore",
+        "tabooWords": [
+            "Campo",
+            "Coltivare",
+            "Raccolto",
+            "Animali",
+            "Trattore"
+        ]
+    },
+    {
+        "keyword": "Idraulico",
+        "tabooWords": [
+            "Tubi",
+            "Acqua",
+            "Rubinetto",
+            "Riparare",
+            "Bagno"
+        ]
+    },
+    {
+        "keyword": "Elettricista",
+        "tabooWords": [
+            "Fili",
+            "Luce",
+            "Corrente",
+            "Prese",
+            "Riparare"
+        ]
+    },
+    {
+        "keyword": "Meccanico",
+        "tabooWords": [
+            "Automobile",
+            "Motore",
+            "Riparare",
+            "Officina",
+            "Olio"
+        ]
+    },
+    {
+        "keyword": "Barbiere",
+        "tabooWords": [
+            "Capelli",
+            "Taglio",
+            "Barba",
+            "Rasoio",
+            "Forbici"
+        ]
+    },
+    {
+        "keyword": "Sarto",
+        "tabooWords": [
+            "Vestiti",
+            "Cucire",
+            "Ago",
+            "Filo",
+            "Misura"
+        ]
+    },
+    {
+        "keyword": "Postino",
+        "tabooWords": [
+            "Lettere",
+            "Posta",
+            "Consegnare",
+            "Buca",
+            "Pacco"
+        ]
+    },
+    {
+        "keyword": "Vigile del fuoco",
+        "tabooWords": [
+            "Incendio",
+            "Salvare",
+            "Scala",
+            "Idrante",
+            "Divisa"
+        ]
+    },
+    {
+        "keyword": "Dentista",
+        "tabooWords": [
+            "Denti",
+            "Carie",
+            "Trapano",
+            "Studio",
+            "Bocca"
+        ]
+    },
+    {
+        "keyword": "Veterinario",
+        "tabooWords": [
+            "Animali",
+            "Cane",
+            "Gatto",
+            "Cura",
+            "Malattia"
+        ]
+    },
+    {
+        "keyword": "Giudice",
+        "tabooWords": [
+            "Tribunale",
+            "Legge",
+            "Sentenza",
+            "Processo",
+            "Martello"
+        ]
+    },
+    {
+        "keyword": "Avvocato",
+        "tabooWords": [
+            "Legge",
+            "Cliente",
+            "Difesa",
+            "Tribunale",
+            "Processo"
+        ]
+    },
+    {
+        "keyword": "Architetto",
+        "tabooWords": [
+            "Edificio",
+            "Progetto",
+            "Costruzione",
+            "Casa",
+            "Disegno"
+        ]
+    },
+    {
+        "keyword": "Ingegnere",
+        "tabooWords": [
+            "Progetto",
+            "Costruzione",
+            "Macchina",
+            "Soluzione",
+            "Tecnica"
+        ]
+    },
+    {
+        "keyword": "Pilota",
+        "tabooWords": [
+            "Aereo",
+            "Volare",
+            "Cabina",
+            "Cielo",
+            "Aeroporto"
+        ]
+    },
+    {
+        "keyword": "Capitano",
+        "tabooWords": [
+            "Nave",
+            "Barca",
+            "Mare",
+            "Comandare",
+            "Equipaggio"
+        ]
+    }
+]
