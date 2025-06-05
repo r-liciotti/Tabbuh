@@ -9,15 +9,17 @@
 <h2>Project Screenshots:</h2>
 
 <img src="https://github.com/r-liciotti/Tabbuh/blob/main/public/screenshot/IPhone.png" alt="project-screenshot">
+  
+  ## 🚀 Funzionalità Principali
 
-  
-  
-<h2>🧐 Features</h2>
+✅ **Animazioni sullo swipe**: Effetti dinamici attivati dallo scorrimento della pagina.
 
-Here're some of the project's best features:
+✅ **Hover e aniamzione nei bottin**: Creazione di transizioni geometriche uniche per un impatto visivo maggiore.
 
-  
-  
+✅ **UI/UX semplice**: Interfaccia create per un'esperienza utente semplice ed intutuitiva.
+
+✅ **Design completamente responsivo**: Adattabile a qualsiasi dispositivo.
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
