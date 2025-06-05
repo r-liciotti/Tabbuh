@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/r-liciotti/Tabbuh/blob/main/public/screenshot/Desktop.png" alt="project-screenshot" width="60%">
+<img src="https://github.com/r-liciotti/Tabbuh/blob/main/public/screenshot/Desktop.png" alt="project-screenshot" width="60%" align="center">
 <img src="https://github.com/r-liciotti/Tabbuh/blob/main/public/screenshot/IPhone.png" alt="project-screenshot" width="30%">
   
   ## 🚀 Funzionalità Principali
@@ -23,10 +23,10 @@
 
 <h2>💻 Built with</h2>
 
-Technologies used in the project:
+Tecnologie utilizzate:
 
-*   react
-*   typescript
-*   zudstand
-*   framer-motion
-*   tailwindcss
+*   **React**
+*   **Typescript**
+*   **Zudstand**
+*   **Framer-Motion**
+*   **Tailwindcss**
