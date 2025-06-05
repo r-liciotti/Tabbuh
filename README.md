@@ -8,7 +8,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/r-liciotti/Tabbuh/blob/main/public/screenshot/IPhone.png" alt="project-screenshot" width="70%">
+<img src="https://github.com/r-liciotti/Tabbuh/blob/main/public/screenshot/IPhone.png" alt="project-screenshot" width="30%">
   
   ## 🚀 Funzionalità Principali
 
