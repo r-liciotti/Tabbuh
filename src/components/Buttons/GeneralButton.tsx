@@ -29,7 +29,7 @@ function GeneralButton({
   return (
     <button
       onClick={onClick}
-      className={`tabooStyle flex justify-center items-center ${classList || ""}`}
+      className={`tabooStyle flex items-center justify-center ${classList || ""}`}
     >
       <p>{title}</p>
       <style>{`

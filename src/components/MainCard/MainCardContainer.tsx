@@ -41,10 +41,10 @@ function MainCardContainer() {
 
   return (
     <motion.div
-      className="flex h-full w-full flex-col items-center gap-8 overflow-hidden p-16 lg:p-8"
+      className="flex h-full w-full flex-col items-center gap-8 overflow-hidden p-16 py-8 lg:p-8"
       style={{ backgroundColor: bgColor }}
     >
-      <h1 className="text-5xl font-bold">Team Blu</h1>
+      {/* <h1 className="text-5xl font-bold">Team Blu</h1> */}
       <MainCard
         key={currentCard.keyword}
         onSwipe={handleSwipe}

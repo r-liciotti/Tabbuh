@@ -7,7 +7,7 @@ function Footer() {
   const { skipsRemaining, skipCard, answerCorrect, answerWrong } =
     useGameStore();
   return (
-    <div className="footer absolute bottom-3 flex w-full justify-around gap-4 p-4">
+    <div className="footer bottom-3 flex w-full justify-around gap-4 p-4">
       <RemovePonintButton answerWrongEvent={answerWrong} />
       <JumpButton skipCardEvent={skipCard} skipsRemaining={skipsRemaining} />
       <AddPointButton answerCorrectEvent={answerCorrect} />

@@ -11,7 +11,7 @@ function App() {
   const { statusGame } = useGameStore();
 
   return (
-    <div className="w-full h-screen flex flex-col">
+    <div className="flex h-dvh w-full flex-col">
       <Header />
       {statusGame === "notInitialized" && <StartWindow />}
       {statusGame === "pause" && <PuaseTurnWindow />}
