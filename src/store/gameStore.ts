@@ -2,7 +2,7 @@ import { create } from 'zustand';
 import type { ICard } from '../interfaces/Interfaces';
 import { getRandomCard } from '../utility/utility';
 type Team = 'red' | 'blue';
-type StatusGame = 'start' | 'end' | 'pause' | 'active' | 'prep' | 'notInitialized';
+type StatusGame = 'start' | 'end' | 'pause' | 'active' | 'prep' | 'notInitialized' | 'bugReport';
 interface IGameState {
     scores: Record<Team, number>;
     activeTeam: Team;
@@ -16,6 +16,7 @@ interface IGameState {
     endTurn: () => void;
     changeTeam: () => void;
     puasePlayTurn: () => void;
+    bugReport: () => void;
     nextCard: () => void;
     skipCard: () => void;
     answerCorrect: () => void;
@@ -57,6 +58,11 @@ export const useGameStore = create<IGameState>((set, get) => ({
         const { isTurnActive } = get();
         set({ isTurnActive: !isTurnActive });
         set({ statusGame: isTurnActive ? 'pause' : 'active' });
+    },
+    bugReport: () => {
+        const { isTurnActive } = get();
+        set({ isTurnActive: !isTurnActive });
+        set({ statusGame: 'bugReport' });
     },
     nextCard: () => {
         set(() => ({ currentCard: getRandomCard() }));

@@ -33,7 +33,7 @@ function Progressbar() {
         endTurn();
         clearInterval(interval);
       }
-    }, 1000);
+    }, 10);
 
     return () => {
       clearInterval(interval);
